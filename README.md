@@ -5,16 +5,16 @@ For the final project of Code Kentucky's Data Analysis Course, I utilized OpenMe
 
 The easiest way to run this program is to select the blue "Open in Colab" button at the top of the Rainfall_Comparison.ipynb, especially if you would like to view the embedded Tableau dashboard which can also be found at: https://public.tableau.com/views/RainfallDataDashboard_16904141579260/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link.
 
-##Required features included in my final project
+**Required features included in my final project**
 * Read in two datasets with an API
 * Clean data and perform an SQL join
 * Tableau dashboard
 * Custom data dictionary included in this README
 
-##Conclusions
+**Conclusions**
 For the six weeks measured, I found that my personal rain gauge typically measured more rainfall than what was recorded by ERA5. I also found that 50% of the weeks measured by my personal rain gauge were over 1 inch, which is the amount required to sustain a vegetable garden. 
 
-##Definitions
+**Definitions**
 * df_hw22weekly - The final cleaned dataframe for the ERA5 data from 2022.
 * rain_sum_22 - Daily and weekly rain totals for the ERA5 data from 2022.
 * week_date - The date displayed by full weeks based on the start of the week.
