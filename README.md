@@ -12,7 +12,8 @@ The easiest way to run this program is to select the blue "Open in Colab" button
 * Custom data dictionary included in this README
 
 **Conclusions**
->For the six weeks measured, I found that my personal rain gauge typically measured more rainfall than what was recorded by ERA5. I also found that 50% of the weeks measured by my personal rain gauge were over 1 inch, which is the amount required to sustain a vegetable garden. 
+***
+For the six weeks measured, I found that my personal rain gauge typically measured more rainfall than what was recorded by ERA5. I also found that 50% of the weeks measured by my personal rain gauge were over 1 inch, which is the amount required to sustain a vegetable garden. 
 
 **Definitions**
 * df_hw22weekly - The final cleaned dataframe for the ERA5 data from 2022.
